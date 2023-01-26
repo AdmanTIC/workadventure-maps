@@ -704,30 +704,15 @@
          "objects":[
                 {
                  "class":"",
-                 "height":21.321961620469,
-                 "id":25,
+                 "gid":2956,
+                 "height":63.1918976545842,
+                 "id":43,
                  "name":"",
                  "rotation":0,
                  "visible":true,
-                 "width":96.6595593461266,
-                 "x":742.004264392324,
-                 "y":1186.92253020611
-                }, 
-                {
-                 "class":"",
-                 "height":18.84375,
-                 "id":26,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Hello World",
-                     "wrap":true
-                    },
-                 "visible":true,
-                 "width":84.625,
-                 "x":745.178615849325,
-                 "y":1187.45090396233
+                 "width":224.889125799573,
+                 "x":701.843638948116,
+                 "y":1248.15849324805
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -736,7 +721,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":27,
+ "nextobjectid":44,
  "orientation":"orthogonal",
  "properties":[
         {
