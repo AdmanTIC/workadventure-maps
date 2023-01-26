@@ -704,15 +704,31 @@
          "objects":[
                 {
                  "class":"",
+                 "height":18.84375,
+                 "id":44,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":84.625,
+                 "x":934.233342217484,
+                 "y":1210.19432969083
+                }, 
+                {
+                 "class":"",
                  "gid":2956,
-                 "height":63.1918976545842,
-                 "id":43,
+                 "height":46.1343283582091,
+                 "id":46,
                  "name":"",
                  "rotation":0,
                  "visible":true,
-                 "width":224.889125799573,
-                 "x":701.843638948116,
-                 "y":1248.15849324805
+                 "width":103.990752034775,
+                 "x":809.948835740634,
+                 "y":1241.05117270789
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -721,7 +737,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":44,
+ "nextobjectid":47,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -899,8 +915,27 @@
          "tilewidth":32
         }, 
         {
+         "columns":0,
          "firstgid":2956,
-         "source":"ADM.tsx"
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"admantic-logo-rect_Fond-blanc",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":673,
+         "tiles":[
+                {
+                 "id":0,
+                 "image":"tilesets\/admantic-logo-rect_Fond-blanc.png",
+                 "imageheight":673,
+                 "imagewidth":1517
+                }],
+         "tilewidth":1517
         }],
  "tilewidth":32,
  "type":"map",
