@@ -1293,6 +1293,12 @@
          "imagewidth":800,
          "margin":0,
          "name":"WA_Room_Builder",
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "spacing":0,
          "tilecount":1000,
          "tileheight":32,
