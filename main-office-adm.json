@@ -527,9 +527,19 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"bellPopup",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
                  "name":"bellVariable",
                  "type":"string",
                  "value":"bell_variable"
+                }, 
+                {
+                 "name":"bullButtonText",
+                 "type":"string",
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1178,6 +1188,17 @@
                  "width":0,
                  "x":693,
                  "y":1265.5
+                }, 
+                {
+                 "class":"",
+                 "height":36.1858190709045,
+                 "id":66,
+                 "name":"bellMessage",
+                 "rotation":0,
+                 "visible":true,
+                 "width":48.8997555012224,
+                 "x":683.618581907091,
+                 "y":1199.02200488998
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1186,7 +1207,7 @@
          "y":0
         }],
  "nextlayerid":70,
- "nextobjectid":66,
+ "nextobjectid":68,
  "orientation":"orthogonal",
  "properties":[
         {
