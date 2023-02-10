@@ -745,7 +745,7 @@
                 {
                  "name":"bellButtonText",
                  "type":"string",
-                 "value":"\ud83d\udd14"
+                 "value":"doorbell"
                 }, 
                 {
                  "name":"bellPopup",
@@ -1765,11 +1765,6 @@
                          "name":"bellSound",
                          "type":"string",
                          "value":"resources\/sounds\/doorbell-1.mp3"
-                        }, 
-                        {
-                         "name":"soundRadius",
-                         "type":"int",
-                         "value":10
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1903,14 +1898,14 @@
                 }, 
                 {
                  "class":"",
-                 "height":29.2351496177143,
+                 "height":84.8403526760005,
                  "id":72,
                  "name":"b1bellMessage",
                  "rotation":0,
                  "visible":true,
-                 "width":39.9632495084896,
-                 "x":1247.5191199583,
-                 "y":1019.5399070698
+                 "width":118.406303822858,
+                 "x":1208.79406782842,
+                 "y":967.906504229963
                 }, 
                 {
                  "class":"",
