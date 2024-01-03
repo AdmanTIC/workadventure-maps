@@ -1380,6 +1380,7 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":673,
+         "image":"tilesets\/admantic-logo-rect_Fond-blanc.png",
          "tiles":[
                 {
                  "id":0,
